@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-13T11:32:17 IST" name="Default suite" finished-at="2023-03-13T11:32:20 IST" duration-ms="3550">
+    <groups>
+    </groups>
+    <test started-at="2023-03-13T11:32:17 IST" name="Default test" finished-at="2023-03-13T11:32:20 IST" duration-ms="3550">
+      <class name="Json.JSon">
+        <test-method signature="Dynamson(java.lang.String,java.lang.String)[pri:0, instance:Json.JSon@4efc180e]" started-at="2023-03-13T11:32:17 IST" name="Dynamson" data-provider="BooksData" finished-at="2023-03-13T11:32:20 IST" duration-ms="2713" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[anxgdhh]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[246343]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Dynamson -->
+        <test-method signature="Dynamson(java.lang.String,java.lang.String)[pri:0, instance:Json.JSon@4efc180e]" started-at="2023-03-13T11:32:20 IST" name="Dynamson" data-provider="BooksData" finished-at="2023-03-13T11:32:20 IST" duration-ms="446" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[cyeghdj]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[47253]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Dynamson -->
+        <test-method signature="Dynamson(java.lang.String,java.lang.String)[pri:0, instance:Json.JSon@4efc180e]" started-at="2023-03-13T11:32:20 IST" name="Dynamson" data-provider="BooksData" finished-at="2023-03-13T11:32:20 IST" duration-ms="344" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[gjksgw]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[223946]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Dynamson -->
+      </class> <!-- Json.JSon -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
